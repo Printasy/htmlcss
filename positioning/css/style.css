@@ -1,0 +1,19 @@
+.blok{
+    height: 150px;
+    width:150px;
+    background:green;
+    border: 2px solid blue;
+    padding: 5px 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.blokb{
+    background:orange;
+    float:right;
+}
+.blokc{
+    background:purple;
+    padding:40px;
+    float:right;
+
+}
